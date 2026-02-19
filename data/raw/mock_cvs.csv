@@ -1,0 +1,151 @@
+cv_id,city_pref,level,text
+cv_000,Lyon,mid,"CV MOCK 0
+        Location preference: Lyon
+        Seniority: mid (2 years)
+        Skills: airflow, fastapi, kubernetes, python, sklearn, spark, sql, streamlit, transformers
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_001,Paris,mid,"CV MOCK 1
+        Location preference: Paris
+        Seniority: mid (2 years)
+        Skills: airflow, bert, pandas, python, sklearn, spark, sql
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_002,Lille,senior,"CV MOCK 2
+        Location preference: Lille
+        Seniority: senior (9 years)
+        Skills: bert, faiss, nlp, pandas, python, spark
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_003,Bordeaux,mid,"CV MOCK 3
+        Location preference: Bordeaux
+        Seniority: mid (2 years)
+        Skills: airflow, dbt, fastapi, sklearn, sql, streamlit, transformers
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_004,Bordeaux,junior,"CV MOCK 4
+        Location preference: Bordeaux
+        Seniority: junior (1 years)
+        Skills: airflow, bert, dbt, faiss, spark, streamlit, transformers
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_005,Lyon,junior,"CV MOCK 5
+        Location preference: Lyon
+        Seniority: junior (1 years)
+        Skills: airflow, aws, faiss, nlp, pandas, spark, transformers
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_006,Lille,senior,"CV MOCK 6
+        Location preference: Lille
+        Seniority: senior (7 years)
+        Skills: bert, dbt, faiss, pandas, python, sql, streamlit
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_007,Remote,senior,"CV MOCK 7
+        Location preference: Remote
+        Seniority: senior (10 years)
+        Skills: airflow, aws, dbt, docker, faiss, kubernetes, nlp, python, sql, streamlit
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_008,Lille,senior,"CV MOCK 8
+        Location preference: Lille
+        Seniority: senior (8 years)
+        Skills: dbt, docker, faiss, fastapi, pandas, python, streamlit, transformers
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_009,Lyon,junior,"CV MOCK 9
+        Location preference: Lyon
+        Seniority: junior (1 years)
+        Skills: aws, bert, docker, faiss, nlp, pandas, sklearn, sql
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_010,Lyon,mid,"CV MOCK 10
+        Location preference: Lyon
+        Seniority: mid (3 years)
+        Skills: aws, bert, dbt, kubernetes, pandas, sklearn, spark, sql, transformers
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_011,Lyon,senior,"CV MOCK 11
+        Location preference: Lyon
+        Seniority: senior (8 years)
+        Skills: airflow, aws, kubernetes, nlp, pandas, streamlit
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_012,Remote,senior,"CV MOCK 12
+        Location preference: Remote
+        Seniority: senior (5 years)
+        Skills: airflow, aws, bert, dbt, faiss, pandas, python, sklearn, spark, streamlit
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_013,Lille,mid,"CV MOCK 13
+        Location preference: Lille
+        Seniority: mid (2 years)
+        Skills: bert, faiss, fastapi, pandas, sklearn, sql
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_014,Bordeaux,junior,"CV MOCK 14
+        Location preference: Bordeaux
+        Seniority: junior (1 years)
+        Skills: airflow, kubernetes, python, sklearn, sql, streamlit, transformers
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_015,Remote,mid,"CV MOCK 15
+        Location preference: Remote
+        Seniority: mid (2 years)
+        Skills: airflow, aws, dbt, faiss, fastapi, kubernetes, nlp, python, sql, streamlit
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_016,Remote,mid,"CV MOCK 16
+        Location preference: Remote
+        Seniority: mid (4 years)
+        Skills: aws, fastapi, kubernetes, pandas, python, sklearn, spark, streamlit, transformers
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_017,Remote,junior,"CV MOCK 17
+        Location preference: Remote
+        Seniority: junior (0 years)
+        Skills: airflow, aws, dbt, docker, faiss, fastapi, pandas, sklearn, spark, transformers
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_018,Lyon,mid,"CV MOCK 18
+        Location preference: Lyon
+        Seniority: mid (3 years)
+        Skills: aws, docker, faiss, nlp, python, streamlit, transformers
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_019,Remote,senior,"CV MOCK 19
+        Location preference: Remote
+        Seniority: senior (9 years)
+        Skills: aws, dbt, docker, faiss, fastapi, kubernetes, sklearn, sql, transformers
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_020,Paris,senior,"CV MOCK 20
+        Location preference: Paris
+        Seniority: senior (10 years)
+        Skills: aws, bert, dbt, docker, faiss, fastapi, kubernetes, sklearn, sql
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_021,Paris,mid,"CV MOCK 21
+        Location preference: Paris
+        Seniority: mid (5 years)
+        Skills: airflow, aws, bert, dbt, fastapi, kubernetes, pandas, python, sql
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_022,Bordeaux,junior,"CV MOCK 22
+        Location preference: Bordeaux
+        Seniority: junior (2 years)
+        Skills: aws, bert, dbt, docker, fastapi, pandas, python, spark, streamlit, transformers
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_023,Lyon,senior,"CV MOCK 23
+        Location preference: Lyon
+        Seniority: senior (7 years)
+        Skills: airflow, bert, dbt, docker, fastapi, kubernetes, nlp, python, sklearn
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_024,Lille,senior,"CV MOCK 24
+        Location preference: Lille
+        Seniority: senior (9 years)
+        Skills: airflow, aws, dbt, faiss, fastapi, sql, transformers
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_025,Bordeaux,junior,"CV MOCK 25
+        Location preference: Bordeaux
+        Seniority: junior (0 years)
+        Skills: airflow, docker, faiss, kubernetes, pandas, python, streamlit
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_026,Bordeaux,mid,"CV MOCK 26
+        Location preference: Bordeaux
+        Seniority: mid (2 years)
+        Skills: aws, dbt, docker, spark, sql, transformers
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_027,Lyon,junior,"CV MOCK 27
+        Location preference: Lyon
+        Seniority: junior (0 years)
+        Skills: aws, docker, faiss, python, spark, sql, streamlit
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_028,Bordeaux,mid,"CV MOCK 28
+        Location preference: Bordeaux
+        Seniority: mid (4 years)
+        Skills: aws, bert, dbt, docker, faiss, fastapi, nlp, sklearn, spark, transformers
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
+cv_029,Lille,junior,"CV MOCK 29
+        Location preference: Lille
+        Seniority: junior (1 years)
+        Skills: bert, faiss, fastapi, kubernetes, sklearn, sql, transformers
+        Experience: built APIs, worked on data pipelines, wrote tests, deployed models."
