@@ -44,15 +44,39 @@ Ranking metrics (Precision@K, NDCG)
 
 📦 Installation (Windows)
 1️⃣ Cloner le repo
+
 git clone <repo_url>
 cd cv-job-matcher
 
 2️⃣ Créer un environnement virtuel
+
 python -m venv .venv
 .venv\Scripts\activate
 
 3️⃣ Installer les dépendances
+
 pip install -r requirements.txt
+
+python -m src.ingestion.load_jobs
+
+python -m src.ingestion.make_mock_cvs
+
+python -m src.index.build_index
+
+python -m src.eval.make_qrels
+
+python -m src.eval.evaluate
+
+streamlit run app\streamlit_app.py
+
+
+Dans un autre terminal (même venv) : 
+uvicorn api.main:app --reload
+
+Ouvre : 
+http://127.0.0.1:8000/docs
+
+Test rapide : copie/colle un texte de CV dans /match.
 
 🧠 Construction de l’index sémantique
 python -m src.index.build_index
